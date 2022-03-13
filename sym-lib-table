@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ATMEGA328P-AU")(type "Legacy")(uri "C:/GLENN/WORK/#projects/Kicad projects/Project 3/Project specific library/ATMEGA328P-AU/ATMEGA328P-AU.lib")(options "")(descr ""))
+  (lib (name "DS1337S_")(type "Legacy")(uri "C:/GLENN/WORK/#projects/Kicad projects/Project 3/Project specific library/DS1337S_/DS1337S_.lib")(options "")(descr ""))
+)
